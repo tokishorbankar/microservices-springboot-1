@@ -3,7 +3,7 @@
 [![Build Status](https://github.com/tokishorbankar/microservices-springboot-1)](https://github.com/tokishorbankar/microservices-springboot-1)
 
 ```
-Microservices with Spring Boot &amp; Spring Cloud With Live Example
+Microservices with Spring Boot & Live Example
 
 ```
 
